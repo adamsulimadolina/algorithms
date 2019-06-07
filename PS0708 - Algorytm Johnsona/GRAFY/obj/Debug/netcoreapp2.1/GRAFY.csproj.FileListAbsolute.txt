@@ -1,0 +1,11 @@
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\obj\Debug\netcoreapp2.1\GRAFY.csprojAssemblyReference.cache
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\obj\Debug\netcoreapp2.1\GRAFY.csproj.CoreCompileInputs.cache
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\obj\Debug\netcoreapp2.1\GRAFY.AssemblyInfoInputs.cache
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\obj\Debug\netcoreapp2.1\GRAFY.AssemblyInfo.cs
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\bin\Debug\netcoreapp2.1\GRAFY.deps.json
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\bin\Debug\netcoreapp2.1\GRAFY.runtimeconfig.json
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\bin\Debug\netcoreapp2.1\GRAFY.runtimeconfig.dev.json
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\bin\Debug\netcoreapp2.1\GRAFY.dll
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\bin\Debug\netcoreapp2.1\GRAFY.pdb
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\obj\Debug\netcoreapp2.1\GRAFY.dll
+E:\Adaś\STUDIA\SEMESTR 3\Algorytmy i struktury danych\GRAFY\GRAFY\obj\Debug\netcoreapp2.1\GRAFY.pdb

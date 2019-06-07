@@ -1,0 +1,11 @@
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\bin\Debug\netcoreapp2.0\Dikstra.deps.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\bin\Debug\netcoreapp2.0\Dikstra.runtimeconfig.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\bin\Debug\netcoreapp2.0\Dikstra.runtimeconfig.dev.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\bin\Debug\netcoreapp2.0\Dikstra.dll
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\bin\Debug\netcoreapp2.0\Dikstra.pdb
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\obj\Debug\netcoreapp2.0\Dikstra.csprojAssemblyReference.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\obj\Debug\netcoreapp2.0\Dikstra.csproj.CoreCompileInputs.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\obj\Debug\netcoreapp2.0\Dikstra.AssemblyInfoInputs.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\obj\Debug\netcoreapp2.0\Dikstra.AssemblyInfo.cs
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\obj\Debug\netcoreapp2.0\Dikstra.dll
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\Dikstra\Dikstra\obj\Debug\netcoreapp2.0\Dikstra.pdb

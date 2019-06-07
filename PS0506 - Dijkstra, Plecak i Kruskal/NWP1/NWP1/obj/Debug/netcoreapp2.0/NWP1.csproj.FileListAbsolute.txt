@@ -1,0 +1,22 @@
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.csprojAssemblyReference.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.csproj.CoreCompileInputs.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.AssemblyInfoInputs.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.AssemblyInfo.cs
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.deps.json
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.runtimeconfig.json
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.runtimeconfig.dev.json
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.dll
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.pdb
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.dll
+F:\STUDIA\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.pdb
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.deps.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.runtimeconfig.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.runtimeconfig.dev.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.dll
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\bin\Debug\netcoreapp2.0\NWP1.pdb
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.csprojAssemblyReference.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.csproj.CoreCompileInputs.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.AssemblyInfoInputs.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.AssemblyInfo.cs
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.dll
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\NWP1\NWP1\obj\Debug\netcoreapp2.0\NWP1.pdb

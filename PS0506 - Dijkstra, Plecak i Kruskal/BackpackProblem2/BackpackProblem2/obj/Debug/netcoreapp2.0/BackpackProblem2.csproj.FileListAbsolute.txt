@@ -1,0 +1,22 @@
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.deps.json
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.runtimeconfig.json
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.runtimeconfig.dev.json
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.dll
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.pdb
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.csprojAssemblyReference.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.csproj.CoreCompileInputs.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.AssemblyInfoInputs.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.AssemblyInfo.cs
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.dll
+F:\STUDIA\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.pdb
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.deps.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.runtimeconfig.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.runtimeconfig.dev.json
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.dll
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\bin\Debug\netcoreapp2.0\BackpackProblem2.pdb
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.csprojAssemblyReference.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.csproj.CoreCompileInputs.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.AssemblyInfoInputs.cache
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.AssemblyInfo.cs
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.dll
+F:\STUDIA\SEMESTR 3\Algorytmy i struktury danych\PS0506\BackpackProblem2\BackpackProblem2\obj\Debug\netcoreapp2.0\BackpackProblem2.pdb

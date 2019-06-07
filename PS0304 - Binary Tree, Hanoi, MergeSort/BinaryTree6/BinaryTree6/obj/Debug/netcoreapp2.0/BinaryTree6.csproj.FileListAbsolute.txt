@@ -1,0 +1,11 @@
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\bin\Debug\netcoreapp2.0\BinaryTree6.deps.json
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\bin\Debug\netcoreapp2.0\BinaryTree6.runtimeconfig.json
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\bin\Debug\netcoreapp2.0\BinaryTree6.runtimeconfig.dev.json
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\bin\Debug\netcoreapp2.0\BinaryTree6.dll
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\bin\Debug\netcoreapp2.0\BinaryTree6.pdb
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\obj\Debug\netcoreapp2.0\BinaryTree6.csprojAssemblyReference.cache
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\obj\Debug\netcoreapp2.0\BinaryTree6.csproj.CoreCompileInputs.cache
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\obj\Debug\netcoreapp2.0\BinaryTree6.AssemblyInfoInputs.cache
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\obj\Debug\netcoreapp2.0\BinaryTree6.AssemblyInfo.cs
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\obj\Debug\netcoreapp2.0\BinaryTree6.dll
+F:\STUDIA\ASD\BinaryTree6\BinaryTree6\obj\Debug\netcoreapp2.0\BinaryTree6.pdb

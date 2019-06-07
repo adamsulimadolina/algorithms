@@ -1,0 +1,22 @@
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.deps.json
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.runtimeconfig.json
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.runtimeconfig.dev.json
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.dll
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.pdb
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.csprojAssemblyReference.cache
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.csproj.CoreCompileInputs.cache
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.AssemblyInfoInputs.cache
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.AssemblyInfo.cs
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.dll
+F:\STUDIA\ASD\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.pdb
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.deps.json
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.runtimeconfig.json
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.runtimeconfig.dev.json
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.dll
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\bin\Debug\netcoreapp2.0\MergeSort1c.pdb
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.csprojAssemblyReference.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.csproj.CoreCompileInputs.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.AssemblyInfoInputs.cache
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.AssemblyInfo.cs
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.dll
+F:\STUDIA\Algorytmy i struktury danych\PS0304\MergeSort1c\MergeSort1c\obj\Debug\netcoreapp2.0\MergeSort1c.pdb

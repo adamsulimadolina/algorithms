@@ -1,0 +1,11 @@
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\obj\Debug\netcoreapp2.0\WiezeHanoi3.csprojAssemblyReference.cache
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\obj\Debug\netcoreapp2.0\WiezeHanoi3.csproj.CoreCompileInputs.cache
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\obj\Debug\netcoreapp2.0\WiezeHanoi3.AssemblyInfoInputs.cache
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\obj\Debug\netcoreapp2.0\WiezeHanoi3.AssemblyInfo.cs
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\bin\Debug\netcoreapp2.0\WiezeHanoi3.deps.json
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\bin\Debug\netcoreapp2.0\WiezeHanoi3.runtimeconfig.json
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\bin\Debug\netcoreapp2.0\WiezeHanoi3.runtimeconfig.dev.json
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\bin\Debug\netcoreapp2.0\WiezeHanoi3.dll
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\bin\Debug\netcoreapp2.0\WiezeHanoi3.pdb
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\obj\Debug\netcoreapp2.0\WiezeHanoi3.dll
+F:\STUDIA\ASD\WiezeHanoi3\WiezeHanoi3\obj\Debug\netcoreapp2.0\WiezeHanoi3.pdb
